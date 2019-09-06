@@ -6,3 +6,4 @@ Collaborate using various functions
 - Branch
 - Merge
 - Fetch
+- Pull Request
